@@ -66,8 +66,6 @@ The Cryptocurrency Price Prediction App is a web-based application designed to f
       npm start
       ```
 
-### Contributing
-We welcome contributions from the community! Please fork the repository and submit pull requests to contribute.
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for more details.
